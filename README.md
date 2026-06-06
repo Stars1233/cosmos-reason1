@@ -1,17 +1,17 @@
-<p align="center">
-    <img src="assets/nvidia-cosmos-header.png" alt="NVIDIA Cosmos Header">
-</p>
-
-<h1 align="center">
-
-> 🚨 Update Notice
+> [!IMPORTANT]
+> ## 🚀 [Cosmos 3 Has Arrived](https://github.com/NVIDIA/Cosmos)
 >
-> The latest version of our Cosmos-Reason is now live!
+> Cosmos 3 is NVIDIA's next-generation foundation model platform for Physical AI. Compared with Cosmos-Reason1, Cosmos 3 delivers substantially stronger physical reasoning capabilities while extending beyond reasoning to support world prediction, simulation, transfer, and action generation within a single unified model.
 >
-> 👉 [**Cosmos-Reason2**](https://github.com/nvidia-cosmos/cosmos-reason2)
-> 
-> We recommend all users migrate to the new version for improved performance, features, and continued support.
-</h1>
+> Rather than relying on separate models for reasoning, prediction, transfer, and policy learning, a single Cosmos 3 model can understand the world, reason about physical interactions, predict future outcomes, transform observations across domains, and generate actions for embodied agents. This unified architecture enables stronger performance across a broad range of Physical AI applications, including robotics, autonomous vehicles, and smart spaces.
+>
+> This repository is no longer under active development and will receive only limited maintenance updates. Future model releases, features, documentation, and community support will be focused on Cosmos 3.
+>
+> 👉 Visit the new Cosmos home: https://github.com/NVIDIA/Cosmos
+>
+> There you will find the latest Cosmos 3 models, technical reports, tutorials, benchmarks, and ecosystem updates.
+>
+> Thank you for your support of Cosmos-Reason1. We encourage all users to migrate to Cosmos 3 for the latest state-of-the-art Physical AI capabilities.
 
 ### [Paper](https://arxiv.org/abs/2503.15558) | [Website](https://research.nvidia.com/labs/dir/cosmos-reason1/) | [HuggingFace](https://huggingface.co/collections/nvidia/cosmos-reason1-67c9e926206426008f1da1b7) | [Cosmos Cookbook](https://github.com/nvidia-cosmos/cosmos-cookbook)
 
